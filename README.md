@@ -3,7 +3,6 @@
 
 This is a simple text-based car game built with Python. The program allows users to control a car using commands entered in the terminal. It's an interactive exercise to demonstrate conditional statements, loops, and user input handling in Python.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ This is a simple text-based car game built with Python. The program allows users
 - Handles repeated commands gracefully (e.g., trying to start an already started car or stop an already stopped car).
 - Displays an error message for unrecognized commands.
 
----
 
 ## Commands
 
@@ -24,6 +22,4 @@ This is a simple text-based car game built with Python. The program allows users
 | `stop`   | Stops the car and displays "Car Stopped."     |
 | `help`   | Displays the list of available commands       |
 | `quit`   | Exits the game                                |
-
----
 
